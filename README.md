@@ -1,6 +1,6 @@
 # Cards
 
-> Projeto com React para fins educacionais <a href="https://poke-deck-three.vercel.app/"> clique aqui. </a>
+> Projeto com Vue para fins educacionais <a href="https://poke-deck-three.vercel.app/"> clique aqui. </a>
 
 <a href="https://github.com/carlosbandelli">
 <img alt="Autor" src="https://img.shields.io/badge/autor-CarlosBandelli-004400?style=flat-square">
